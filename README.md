@@ -33,3 +33,4 @@ This project is considered "complete", but if you feel inclined to modify it or 
 Be sure to check out other cool ReadMe files I created, by clicking one of the links below!
 
 - Exercise[1](exercise1.md)
+- Exercise[2](exercise2.md)
