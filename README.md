@@ -34,3 +34,7 @@ Be sure to check out other cool ReadMe files I created, by clicking one of the l
 
 - Exercise[1](exercise1.md)
 - Exercise[2](exercise2.md)
+
+You can check out my GitHub profile [here](https://github.com/Nakupenda25)!
+
+To find out more about where I am studying, click [here](https://www.fh-joanneum.at/)!
