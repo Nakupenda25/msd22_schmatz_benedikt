@@ -6,7 +6,11 @@ This is a simple exercise to get familiar with git and GitHub. It's part of the 
 
 ## Where should I look?
 
-Check out the [exercise2.md](exercise2.md) file for the actual exercise. It contains a short introduction to git, and a list of commands that are useful for using git. The rest of the files are just carried over from the old exercise.
+Check out the [exercise2.md](exercise2.md) file for the actual exercise. It contains a short introduction to git, and a list of commands that are useful for using git.
+
+Additionally, you can check out the [exercise1.md](exercise1.md) file, which contains a short introduction to Markdown, and a list of commands that are useful for using Markdown.
+
+[exercise3.md](exercise3.md) contains a short introduction to Maven, and some screenshots of the exercise.
 
 ## Further information
 
@@ -16,6 +20,7 @@ Be sure to check out other cool ReadMe files I created, by clicking one of the l
 
 - Exercise[1](exercise1.md)
 - Exercise[2](exercise2.md)
+- Exercise[3](exercise3.md)
 
 You can check out my GitHub profile [here](https://github.com/Nakupenda25)!
 
