@@ -24,6 +24,14 @@ public class Calculator {
     }
 
     public double factorial(double value) {
-        return 0;
+        if (value < 0) {
+            throw new ArithmeticException("Factorial of negative number is not allowed!");
+        }
+
+        if (value == 0) {
+            return 1;
+        }
+
+        return value * factorial(value - 1);
     }
 }
