@@ -145,4 +145,35 @@ public class CalculatorTest {
 
         System.out.println("Division: " + number1 + " / " + number2 + " = " + result + "\n");
     }
+
+    @Test
+    public void factorial(){
+        double value = 5;
+
+        double result = calculator.factorial(value);
+        assertEquals(120, result);
+
+        System.out.println("Factorial: " + value + " = " + result + "\n");
+    }
+
+    @Test
+    public void factorialWithZero(){
+        double value = 0;
+
+        double result = calculator.factorial(value);
+        assertEquals(1, result);
+
+        System.out.println("Factorial: " + value + " = " + result + "\n");
+    }
+
+    @Test
+    public void factorialWithNegativeNumber(){
+        double value = -5;
+
+        assertThrows(ArithmeticException.class, () -> {
+            calculator.factorial(value);
+        });
+
+        System.out.println("Factorial: " + value + " = " + "ArithmeticException" + "\n");
+    }
 }
