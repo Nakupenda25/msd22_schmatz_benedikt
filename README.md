@@ -21,6 +21,7 @@ Be sure to check out other cool ReadMe files I created, by clicking one of the l
 - Exercise[1](exercise1.md)
 - Exercise[2](exercise2.md)
 - Exercise[3](exercise3.md)
+- Exercise[4](exercise4.md)
 
 You can check out my GitHub profile [here](https://github.com/Nakupenda25)!
 
