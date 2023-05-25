@@ -1,16 +1,12 @@
-# Git Exercise
+# Konfigurationsmanagement
 
 ## What is this for?
 
-This is a simple exercise to get familiar with git and GitHub. It's part of the "Konfigurationsmanagement" course at FH JOANNEUM.
+This is the main Repository for the course "Konfigurationsmanagement" at FH Joanneum Graz. It contains all the exercises we did in the course. Additionally, I will update the ReadMe file with information about the current exercise.
 
-## Where should I look?
+## What's going on right now?
 
-Check out the [exercise2.md](exercise2.md) file for the actual exercise. It contains a short introduction to git, and a list of commands that are useful for using git.
-
-Additionally, you can check out the [exercise1.md](exercise1.md) file, which contains a short introduction to Markdown, and a list of commands that are useful for using Markdown.
-
-[exercise3.md](exercise3.md) contains a short introduction to Maven, and some screenshots of the exercise.
+You can check out the current exercise [here](exercise4.md). It is all about testing with JUnit. We were tasked to create a simple program and write some tests for it. Pretty useful stuff!
 
 ## Further information
 
