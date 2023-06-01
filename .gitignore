@@ -40,7 +40,7 @@ build/
 
 ### Log ###
 *.log
-*.xml
+log4j2.xml
 
 ### Misc ###
 *.html
