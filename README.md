@@ -6,13 +6,9 @@ This is the main Repository for the course "Konfigurationsmanagement" at FH Joan
 
 ## What's going on right now?
 
-You can check out the current exercise [here](exercise5.md). It's about logging with Log4j2. We learned how to configure it and how to use it in our code.
-We also did all this with git branches, so we could be prepared for real-life scenarios. Nice.
+Currently, we are working on exercise 6. This exercise is about documentation. We are learning how to use Javadoc to document our code. We are also learning how to use Maven to generate a site for our project.
 
 ## Further information
-
-In order to run some programs, you should incorporate some templates. You can find them [here](src/main/resources).
-Currently only log4j2 needs to be configured, but there might be more in the future.
 
 Be sure to check out other cool ReadMe files I created, by clicking one of the links below!
 
@@ -21,6 +17,7 @@ Be sure to check out other cool ReadMe files I created, by clicking one of the l
 - Exercise[3](exercise3.md)
 - Exercise[4](exercise4.md)
 - Exercise[5](exercise5.md)
+- Exercise[6](exercise6.md)
 
 You can check out my GitHub profile [here](https://github.com/Nakupenda25)!
 
